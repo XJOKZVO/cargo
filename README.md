@@ -13,7 +13,7 @@ The script reads URLs from standard input and processes them one by one. For eac
 
 # Installation
 ```
-https://github.com/XJOKZVO/cargo.git
+git clone https://github.com/XJOKZVO/cargo.git
 ```
 
 # Options:
